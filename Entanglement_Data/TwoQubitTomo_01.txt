@@ -1,0 +1,51 @@
+=================================
+# Two Qubit Tomography Measurement Protocol 
+=================================
+#    Integration Time: 1000 ms
+#    Fidelity Phi+:    0.512
+#    Fidelity Phi-:    0.456
+#    beginning of measurement: 20160831_092949
+#    end of measurement:       20160831_092949
+#      Setting         rate corr. for accidential coincidences
+# HH  rate1 =   21113   rate2 =   20204 coincidences =     515 corrected =     506
+# HV  rate1 =   21067   rate2 =     610 coincidences =       6 corrected =       5
+# HP  rate1 =   21252   rate2 =    9763 coincidences =     219 corrected =     214
+# HM  rate1 =   20836   rate2 =   10093 coincidences =     276 corrected =     271
+# HR  rate1 =   21031   rate2 =    8375 coincidences =     201 corrected =     197
+# HL  rate1 =   20841   rate2 =   11267 coincidences =     265 corrected =     260
+# VH  rate1 =    1405   rate2 =   19441 coincidences =      12 corrected =      11
+# VV  rate1 =    1397   rate2 =     539 coincidences =       1 corrected =       0
+# VP  rate1 =    1369   rate2 =    9832 coincidences =       2 corrected =       1
+# VM  rate1 =    1353   rate2 =   10286 coincidences =       6 corrected =       5
+# VR  rate1 =    1331   rate2 =    8339 coincidences =       3 corrected =       2
+# VL  rate1 =    1384   rate2 =   10880 coincidences =       1 corrected =       0
+# PH  rate1 =    9426   rate2 =   19709 coincidences =     214 corrected =     210
+# PV  rate1 =    9410   rate2 =     575 coincidences =       3 corrected =       2
+# PP  rate1 =    9313   rate2 =    9925 coincidences =     110 corrected =     108
+# PM  rate1 =    9408   rate2 =   10415 coincidences =     127 corrected =     125
+# PR  rate1 =    9361   rate2 =    8215 coincidences =      73 corrected =      71
+# PL  rate1 =    9407   rate2 =   11334 coincidences =     153 corrected =     150
+# MH  rate1 =   10652   rate2 =   19938 coincidences =     293 corrected =     288
+# MV  rate1 =   10960   rate2 =     604 coincidences =       3 corrected =       2
+# MP  rate1 =   10794   rate2 =    9821 coincidences =     132 corrected =     129
+# MM  rate1 =   10808   rate2 =   10311 coincidences =     155 corrected =     152
+# MR  rate1 =   10780   rate2 =    8359 coincidences =     131 corrected =     129
+# ML  rate1 =   10841   rate2 =   11321 coincidences =     170 corrected =     167
+# RH  rate1 =    8952   rate2 =   19547 coincidences =     215 corrected =     211
+# RV  rate1 =    8870   rate2 =     593 coincidences =       3 corrected =       2
+# RP  rate1 =    8757   rate2 =    9854 coincidences =     106 corrected =     104
+# RM  rate1 =    8854   rate2 =   10210 coincidences =     125 corrected =     123
+# RR  rate1 =    8894   rate2 =    8307 coincidences =      83 corrected =      81
+# RL  rate1 =    8983   rate2 =   11253 coincidences =     132 corrected =     129
+# LH  rate1 =   11511   rate2 =   19922 coincidences =     313 corrected =     308
+# LV  rate1 =   11509   rate2 =     531 coincidences =       0 corrected =       0
+# LP  rate1 =   11436   rate2 =    9888 coincidences =     167 corrected =     164
+# LM  rate1 =   11615   rate2 =   10155 coincidences =     159 corrected =     156
+# LR  rate1 =   11491   rate2 =    8435 coincidences =     136 corrected =     134
+# LL  rate1 =   11608   rate2 =   11451 coincidences =     137 corrected =     134
+
+Density Matrix: 
+  0.97 +  0.00 i        -0.04 +  0.07 i        -0.07 +  0.09 i         0.03 +  0.03 i       
+ -0.04 + -0.07 i         0.01 +  0.00 i        -0.02 + -0.01 i         0.01 + -0.01 i       
+ -0.07 + -0.09 i        -0.02 +  0.01 i         0.02 +  0.00 i         0.01 +  0.00 i       
+  0.03 + -0.03 i         0.01 +  0.01 i         0.01 + -0.00 i        -0.01 +  0.00 i       
